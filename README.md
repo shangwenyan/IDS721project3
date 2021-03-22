@@ -1,8 +1,5 @@
 # A Word Count Program using pyspark on AWS EMR
 
-#### Reference
-- https://github.com/Aliga8or/csds-spark-emr
-
 # How to use the code:
 
 ## 1. Clone the repository
@@ -58,3 +55,7 @@ Inchcape: 1<br>
 the: 3<br>
 The: 1<br>
 perilous: 1<br>
+
+
+#### Reference
+- https://github.com/Aliga8or/csds-spark-emr
